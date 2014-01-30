@@ -1,5 +1,4 @@
 Name : Srinivasa Santosh Kumar
-A-number: A01900937
 Project: Hostage Rescue
 Date: 10th Dec 2013
 
@@ -78,20 +77,6 @@ In Exit,Wall Class only setting of coordinates of Exit Wall is only performed be
 In Hostage Class hostage count,  setting of coordinates of Hostage is implemented.
 
 And In World Class and its World Implementation contains each and every detail related to the game 
-
-In Hostage Rescue Class - This is the starting point of execution as it contains main method(). Here respective functions are called based on user input. 
-And also all validations like if player or hostage is dead displays appropriate  message and displays an option to undo or quit
-
----------------------------------------------------------------------------------------------------------------------------------------	
-Tough Parts Faced During Implementation
-
-Recursive Bomb explode I mean when bomb is present in the bomb's range(3 X 3) was kind of tough for me to implement.
-
-And also Bomb Implementation is also kind of tough for me to implement (Bomb Explosion).
-
----------------------------------------------------------------------------------------------------------------------------------------	
-
-
 
 
 
