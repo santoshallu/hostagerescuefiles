@@ -1,0 +1,21 @@
+20 20 150
+XXXXXXXXXXXXXXXXXXXX
+X..ooooooo.........X
+X....BHB........H..X
+XXXXXXXXXXXXXXXXXXXX
+X....H..........o..X
+X.............o....X
+XXXP...........XXXXX
+XXXX.XXXXXXX.B.XXXXX
+X..HB..............X
+XXXX.XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XooBBBBBBBBBBBB....X
+X.o...XXXX......BB.X
+XHo................X
+Xooo.........BB....E
+X..................X
+X..................X
+X..................X
+X..................X
+XXXXXXXXXXX...H..X.X

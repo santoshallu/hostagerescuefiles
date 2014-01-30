@@ -1,0 +1,21 @@
+20 25 165
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X..XXXXXXX...ooooo..X...X
+X....BHB........Ho......X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X....H.....ooo..oo..ooooX
+X.....ooooooooooo.......X
+XXXP...........XXXX.....X
+XXXX.XXXXXXX.B.XXXX.....X
+X..HB...........o..X....X
+XXXX...................BE
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XooBBBBBBBBBBBB....X....X
+X.o...XXXX......BB.X....X
+XHo................XBBB.X
+Xooo.........BB....X..HBX
+X...XXXXXX.........X....X
+X...X.HH.X.........X....X
+X...XXXXXX.........X....X
+X..................X....X
+XXXXXXXXXXXXXXH..XXXXXXXX
